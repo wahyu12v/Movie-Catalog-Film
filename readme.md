@@ -1,9 +1,9 @@
-Berikut Adalah API film
+Berikut Adalah API film the movbiedb
 
 e79a0416b8e289a618612228c4836fe0
 
 eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNzlhMDQxNmI4ZTI4OWE2MTg2MTIyMjhjNDgzNmZlMCIsInN1YiI6IjY2MTkwM2ZiNmYzMWFmMDE3YzliMTJkMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.EERhPyhhVpOd45I2vlejwotWwsxtAozyN3jd1peRpt4
 
 sistem ini sudah menggunakan
-1.App Shell
-2.App manifest
+1.App Shell (untuk megubah tampilan menggunakan id bukan ke halaman baru)
+2.App manifest (mengatur agar website bisa masuk ke mode desktop di perangkat mobile namun belum bisa 100 % digukanan saat mode offline)
