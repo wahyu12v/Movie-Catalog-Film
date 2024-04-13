@@ -8,3 +8,5 @@ sistem ini sudah menggunakan
 1.App Shell (untuk megubah tampilan menggunakan id bukan ke halaman baru)
 2.App manifest (mengatur agar website bisa masuk ke mode desktop di perangkat mobile namun belum bisa 100 % digukanan saat mode offline)
 3.Service Worker (untuk mengatur cache, offline, dan menampilkan data walaupun dalam keadaan offline)
+4.sudah menggunakan offline capabilty dengan workbox.
+5.sudah mengunakan IndexedDB untuk memebrikan like film.
