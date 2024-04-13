@@ -10,3 +10,4 @@ sistem ini sudah menggunakan
 3.Service Worker (untuk mengatur cache, offline, dan menampilkan data walaupun dalam keadaan offline)
 4.sudah menggunakan offline capabilty dengan workbox.
 5.sudah mengunakan IndexedDB untuk memebrikan like film.
+6.sudah menggunakan websocket untuk melakukan komunikasi 2 arah dari client dan server.
