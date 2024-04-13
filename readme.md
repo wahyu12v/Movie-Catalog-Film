@@ -11,3 +11,5 @@ sistem ini sudah menggunakan
 4.sudah menggunakan offline capabilty dengan workbox.
 5.sudah mengunakan IndexedDB untuk memebrikan like film.
 6.sudah menggunakan websocket untuk melakukan komunikasi 2 arah dari client dan server.
+7.menambahkan Web Push Notification namun belum di test dan sejauh ini belum jalan.
+
