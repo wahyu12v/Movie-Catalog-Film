@@ -7,3 +7,4 @@ eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNzlhMDQxNmI4ZTI4OWE2MTg2MTIyMjhjNDgzNmZlMCIsInN
 sistem ini sudah menggunakan
 1.App Shell (untuk megubah tampilan menggunakan id bukan ke halaman baru)
 2.App manifest (mengatur agar website bisa masuk ke mode desktop di perangkat mobile namun belum bisa 100 % digukanan saat mode offline)
+3.Service Worker (untuk mengatur cache, offline, dan push notification)
